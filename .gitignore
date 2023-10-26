@@ -1,3 +1,10 @@
+# auth
+credentials.json
+token.pickle
+
+# csv files
 *.csv
+
+# media dir
 /media/*
 !/media/.keep
